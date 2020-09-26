@@ -23,7 +23,7 @@ $ npm run dev
 ```
 
 ### Issues
-To report a problem just create an issue [here]().
+To report a problem just create an issue [here](https://github.com/rhernandog/node-passport-local/issues).
 
 ### License
 MIT
