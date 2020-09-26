@@ -1,0 +1,3 @@
+# Ignore All EJS Files
+views/**/*.ejs
+views/*.ejs
